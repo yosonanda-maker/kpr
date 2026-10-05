@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator KPR",
+  "description": "Kalkulator simulasi KPR lengkap: konvensional fixed-floating, syariah, amortisasi, rincian biaya awal, dan analisis kemampuan angsuran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
